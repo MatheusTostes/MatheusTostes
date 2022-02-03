@@ -6,7 +6,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Tostes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusTostes&color=blue" alt="Profile views" /> </p>
 
-- 🔭 I’m currently studying Web Development at [Trybe](https://github.com/betrybe)
+- 📚 I’m currently studying Web Development at [Trybe](https://github.com/betrybe)
+- 🏡 Born and living in Espírito Santo - Brazil
  
 <!--
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
@@ -24,15 +25,46 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+#### 🎨 ✍🏼 Designing: <br/>
+
+<a href="#">
+      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</a>
+
+
+####  :speech_balloon: Languages
+
+<a href="#">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="Python" src="https://img.shields.io/badge/Python-474747.svg?style=for-the-badge&logo=Python&logoColor=blue" />
+</a>
+
+
+#### :hammer: Frameworks
+
+<a href="#">
+      <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+
+#### :wrench: Tools & Environments
+
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-474747.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+
+
+#### 📦 Others
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; -->

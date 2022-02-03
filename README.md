@@ -8,18 +8,6 @@
 
 - 📚 I’m currently studying Web Development at [Trybe](https://github.com/betrybe)
 - 🏡 Born and living in Espírito Santo - Brazil
- 
-<!--
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
--->
 
 <br><br>
 
@@ -67,10 +55,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; -->
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
-<!-- ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
-
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -82,7 +66,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👱 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 
@@ -93,19 +77,3 @@
  <img align="center" src="https://img.shields.io/badge/-tstphysics2-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->

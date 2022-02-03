@@ -13,7 +13,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🎨 ✍🏼 Designing: <br/>
+#### 🎨 Designing: <br/>
 
 <a href="#">
       <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
@@ -57,15 +57,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MatheusTostes&show_icons=true&theme=vision-friendly-dark" alt="MatheusTostes's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTostes&layout=compact&theme=vision-friendly-dark" alt="MatheusTostes's most languages"/>
-</p>
-
-<br><br>
-
 ## 👱 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
@@ -76,4 +67,15 @@
 <a href="https://instagram.com/tstphysics2" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-tstphysics2-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MatheusTostes&show_icons=true&theme=vision-friendly-dark" alt="MatheusTostes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTostes&layout=compact&theme=vision-friendly-dark" alt="MatheusTostes's most languages"/>
+</p>
+
+
 </p>

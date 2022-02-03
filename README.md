@@ -6,7 +6,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Tostes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusTostes&color=blue" alt="Profile views" /> </p>
 
-- 🔭 I’m currently studying at [Trybe](https://github.com/betrybe)
+- 🔭 I’m currently studying Web Development at [Trybe](https://github.com/betrybe)
  
 <!--
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 

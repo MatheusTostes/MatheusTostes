@@ -23,7 +23,7 @@
 ####  :speech_balloon: Languages
 
 <a href="#">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </a>
 
 <a href="#">

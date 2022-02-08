@@ -31,7 +31,7 @@
 </a>
 
 
-#### :hammer: Frameworks/Libs
+#### :hammer: Frameworks & Libs
 
 <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />

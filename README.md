@@ -8,7 +8,7 @@
 
 - 📚 I’m currently studying Web Development at [Trybe](https://github.com/betrybe)
 - 🏡 Born and living in Espírito Santo - Brazil
-- 🐆 Ex Brazilian soldier (38º infantary btl) 🦜
+- 🇧🇷 Ex Brazilian soldier (38º infantary btl) 🪖
 <br><br>
 https://matheustostes.github.io/
 <br><br>

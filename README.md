@@ -35,10 +35,28 @@ https://anxious-genius.com/
 </a>
 
 
-#### :hammer: Frameworks & Libs
+#### :hammer: Frameworks, Libs & Others
 
 <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+</a>
+<a href="#">
+      <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)" />
+</a>
+<a href="#">
+      <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </a>
 
 
@@ -47,17 +65,28 @@ https://anxious-genius.com/
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
-
 <a href="#">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-474747.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </a>
 
 
 #### 📦 Others
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<a href="#">
+      <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="VScode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</a>
+
 
 <br><br>
 

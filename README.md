@@ -121,10 +121,12 @@ https://anxious-genius.com/
       
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MatheusTostes&show_icons=true&theme=vision-friendly-dark" alt="MatheusTostes's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTostes&layout=compact&theme=vision-friendly-dark" alt="MatheusTostes's most languages"/>
-</p>
+<div align="center">
+  <a href="https://github.com/matheustostes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheustostes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustostes&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+<div style="display: inline_block">
 
 
 </p>

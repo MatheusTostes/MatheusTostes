@@ -118,7 +118,7 @@ https://anxious-genius.com/
 </a>
 
 
-      
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
@@ -127,6 +127,6 @@ https://anxious-genius.com/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustostes&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block">
-
-
 </p>
+
+-->

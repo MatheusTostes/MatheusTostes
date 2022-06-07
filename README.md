@@ -118,7 +118,7 @@ https://anxious-genius.com/
 </a>
 
 
-<!--
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
@@ -129,4 +129,4 @@ https://anxious-genius.com/
 <div style="display: inline_block">
 </p>
 
--->
+

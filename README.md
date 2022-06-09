@@ -68,6 +68,9 @@ https://anxious-genius.com/
 <a href="#">
       <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </a>
+<a href="#">
+      <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+</a>
 
 
 #### :wrench: Tools & Environments

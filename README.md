@@ -131,5 +131,8 @@ https://anxious-genius.com/
 </div>
 <div style="display: inline_block">
 </p>
-
+      
+<div align="center">
+      <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=matheustostes&theme=leafy&date_format=j%20M%5B%20Y%5D"/>
+</div>
 

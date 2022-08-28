@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusTostes&color=blue" alt="Profile views" /> </p>
 
 - 📚 I’m currently studying Web Development at [Trybe](https://github.com/betrybe)
-- 💻 Working at [DeskRio](https://deskrio.com.br/)
-- 🏡 Born and living in Espírito Santo - Brazil
+- 💻 Working at <a href="https://deskrio.com.br/"><img src="https://deskrio.com.br/wp-content/uploads/2022/04/xDESKRIO-LOGO-NOVA_Prancheta-1-04-e1650546763239.png.pagespeed.ic.mktwTIUUdh.webp" style="width: 60px" /></a>
+- 🏡 Born and living in Espírito Santo - Brazil 
 -  <a href="#"><img src="https://flagpedia.net/data/flags/emoji/facebook/256x256/br.png" style="width: 15px" /></a> Ex Brazilian soldier (38º infantary btl)
 <br><br>
 <a href="https://matheustostes.github.io/">

@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusTostes&color=blue" alt="Profile views" /> </p>
 
 - 📚 I’m currently studying Web Development at [Trybe](https://github.com/betrybe)
-- 💻 Working at <a href="https://deskrio.com.br/"><img src="https://deskrio.com.br/wp-content/uploads/2022/04/xDESKRIO-LOGO-NOVA_Prancheta-1-04-e1650546763239.png.pagespeed.ic.mktwTIUUdh.webp" style="width: 60px" /></a>
+- 💻 Working at [Deskrio](https://deskrio.com.br/)
 - 🏡 Born and living in Espírito Santo - Brazil 
 - Ex Brazilian soldier (38º infantary btl)
 <br><br>

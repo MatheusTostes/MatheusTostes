@@ -81,11 +81,6 @@
 <a href="#">
       <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
 </a>
-<br>
-
-<a href="#">
-      <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-</a>
 
 
 #### :wrench: Tools & Environments
@@ -102,8 +97,15 @@
 <a href="#">
       <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </a>
+
+<br>
+
 <a href="#">
       <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </a>
 
 

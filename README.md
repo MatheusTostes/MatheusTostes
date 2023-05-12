@@ -81,6 +81,11 @@
 <a href="#">
       <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
 </a>
+<br>
+
+<a href="#">
+      <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+</a>
 
 
 #### :wrench: Tools & Environments

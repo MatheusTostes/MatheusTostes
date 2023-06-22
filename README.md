@@ -146,7 +146,6 @@
 
 <div align="center" display="flex" justify-content="center">
   <a href="https://github.com/matheustostes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheustostes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustostes&hide=jupyter%20notebook"/>
 </div>
 <div style="display: inline_block">

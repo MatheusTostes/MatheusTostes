@@ -6,7 +6,6 @@
 <h1 align="left">Hi <img src="https://github.com/Liliane-Zechel/kaueMarques/blob/master/hi.gif" width="30">, I'm Matheus Tostes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusTostes&color=blue" alt="Profile views" /> </p>
 
-- 📚 I’m currently studying Web Development at [Trybe](https://github.com/betrybe)
 - 💻 Working as Fullstack Web Developer
 - 🏡 Born and living in Espírito Santo - Brazil 
 - Ex Brazilian soldier (38º infantary btl)

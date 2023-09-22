@@ -17,6 +17,14 @@
 
 <br><br>
 
+Web Developer with a passion for coding, rocking it for 4 years, and drawing on that military discipline, not to mention my background as a former physics enthusiast – always had a knack for logic and problem-solving. At the moment, I'm deep into ReactJs, ContextApi, Redux, MaterialUi, NodeJs, ExpressJs, JWT, Sequelize, MySql, REDIS, Docker, SocketIO, and AWS EC2 for all things deployment. I also get along swimmingly with JIRA and Git/Github for that agile development and version control wizardry.
+
+I've cooked up some seriously cool stuff, like fully customizable chatbots, scheduling with REDIS, sleek dashboards, real-time data crunching and interaction. Plus, I've connected the dots with WhatsApp, Facebook, Instagram, Telegram, Email, payment APIs, and a bunch of other third-party goodies.
+
+I've dipped my toes into personal projects and university research, where I got my hands dirty with Python, did some API wrangling, used Selenium for web scraping, tangoed with regular expressions, and even had a fling with machine learning ([check my project about covid predictions](https://github.com/MatheusTostes/covid19-ml-doctor)).
+
+<br><br>
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 🎨 Designing: <br/>
@@ -107,6 +115,11 @@
 <a href="#">
       <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </a>
+
+<a href="#">
+      <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+</a>
+
 
 
 #### 📦 Others

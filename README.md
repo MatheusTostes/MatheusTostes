@@ -32,6 +32,9 @@ Beyond my professional endeavors, I have engaged in personal projects and univer
 <a href="#">
       <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </a>
+<a href="#">
+      <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
 
 
 

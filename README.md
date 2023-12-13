@@ -47,7 +47,7 @@ Beyond my professional endeavors, I have engaged in personal projects and univer
       <img alt="Python" src="https://img.shields.io/badge/Python-474747.svg?style=for-the-badge&logo=Python&logoColor=blue" />
 </a>
 <a href="#">
-      <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+      <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </a>
 
 

@@ -125,6 +125,10 @@ Beyond my professional endeavors, I have engaged in personal projects and univer
       <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </a>
 
+<a href="#">
+      <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
 
 
 #### 📦 Others

@@ -59,9 +59,15 @@ Beyond my professional endeavors, I have engaged in personal projects and univer
 <a href="#">
       <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </a>
+<a href="#">
+      <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
 <br>
 <a href="#">
       <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Context Api" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
 </a>
 <a href="#">
       <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />

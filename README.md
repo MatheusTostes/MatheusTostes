@@ -15,13 +15,25 @@
 </a>
 
 <br><br>
-Experienced Web Developer with a dedicated enthusiasm for coding, boasting a substantial four-year tenure in the field. My professional journey is underpinned by a foundation of military discipline, complemented by a background as a former physics enthusiast, showcasing a natural inclination for logical reasoning and adept problem-solving.
+I'm a Full Stack Web Developer with around 5 years of experience building web applications, mainly with JavaScript and TypeScript.
 
-Currently immersed in advanced technologies, I specialize in the intricate realms of ReactJs, ContextApi, Redux, MaterialUi, NodeJs, ExpressJs, JWT, Sequelize, MySql, REDIS, Docker, SocketIO, and AWS EC2, strategically leveraging them for seamless deployment. Proficiently navigating tools such as JIRA and Git/Github, I seamlessly integrate agile development methodologies and exercise adept version control wizardry.
+My professional experience is focused on web applications and SaaS platforms, using technologies such as React, Next.js, Node.js, relational databases, Redis, Docker, WebSockets, and RabbitMQ. I've worked with dashboards, real-time applications, third-party integrations, and communication platforms.
 
-My portfolio encompasses a diverse range of impactful projects, including the creation of fully customizable chatbots, implementing scheduling mechanisms with REDIS, crafting sophisticated dashboards, and executing real-time data crunching and interaction. I have successfully interconnected various platforms, including WhatsApp, Facebook, Instagram, Telegram, Email, and payment APIs, integrating them seamlessly with my applications.
+On the frontend, I have experience with Design Systems, reusable components, and pixel-perfect implementations, following good practices for consistency and maintainability.
 
-Beyond my professional endeavors, I have engaged in personal projects and university research initiatives. In these pursuits, I delved into Python, adeptly managed APIs, employed Selenium for web scraping, grappled with regular expressions, and even explored the realms of machine learning, as evidenced by my noteworthy project on COVID predictions, ([check my project about covid predictions](https://github.com/MatheusTostes/covid19-ml-doctor)).
+I've also worked with the infrastructure around web applications, including load balancing, database replicas, Redis, RabbitMQ, Cloudflare, Nginx, AWS, and PostHog.
+
+With the increasing use of AI in software development, I've been focusing on maintaining code quality and stability while increasing development speed, using unit and end-to-end testing as part of the development process.
+
+More recently, I've been working with Generative AI and AI-assisted development, including LLMs, RAG, local models, structured outputs, AI agents, and AI APIs.
+
+I'm also exploring Harness Engineering and new approaches to developing software alongside AI coding agents, with a focus on repository structure, reusable skills, development workflows, project context, and engineering conventions.
+
+Outside of my professional web development work, I've experimented with technologies such as Rust-JavaScript integrations, installed applications, and Picture-in-Picture (PiP).
+
+My background in physics and previous military experience have influenced my approach to logical problem-solving, organization, and continuous learning.
+
+I enjoy building projects, experimenting with new technologies, and learning through practice.
 
 <br><br>
 
